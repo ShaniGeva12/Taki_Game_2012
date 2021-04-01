@@ -1,0 +1,9 @@
+C:\Users\HGP\documents\visual studio 2010\Projects\Taki\Taki.Common\bin\Release\Taki.Common.dll
+C:\Users\HGP\documents\visual studio 2010\Projects\Taki\Taki.Common\bin\Release\Taki.Common.pdb
+C:\Users\HGP\documents\visual studio 2010\Projects\Taki\Taki.Common\obj\Release\ResolveAssemblyReference.cache
+C:\Users\HGP\documents\visual studio 2010\Projects\Taki\Taki.Common\obj\Release\Taki.Common.dll
+C:\Users\HGP\documents\visual studio 2010\Projects\Taki\Taki.Common\obj\Release\Taki.Common.pdb
+E:\0-ShaniGeva\Taki\Taki.Common\bin\Release\Taki.Common.dll
+E:\0-ShaniGeva\Taki\Taki.Common\bin\Release\Taki.Common.pdb
+E:\0-ShaniGeva\Taki\Taki.Common\obj\Release\Taki.Common.dll
+E:\0-ShaniGeva\Taki\Taki.Common\obj\Release\Taki.Common.pdb

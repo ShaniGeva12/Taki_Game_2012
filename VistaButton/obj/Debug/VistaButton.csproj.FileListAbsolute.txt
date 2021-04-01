@@ -1,0 +1,11 @@
+C:\Users\Geva\Desktop\Shani\Csharp\Taki\VistaButton\bin\Debug\VistaButton.exe
+C:\Users\Geva\Desktop\Shani\Csharp\Taki\VistaButton\bin\Debug\VistaButton.pdb
+C:\Users\Geva\Desktop\Shani\Csharp\Taki\VistaButton\bin\Debug\Documentation.xml
+C:\Users\Geva\Desktop\Shani\Csharp\Taki\VistaButton\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Geva\Desktop\Shani\Csharp\Taki\VistaButton\obj\Debug\VistaButtonTest.Form1.resources
+C:\Users\Geva\Desktop\Shani\Csharp\Taki\VistaButton\obj\Debug\VistaButtonTest.VistaButton.resources
+C:\Users\Geva\Desktop\Shani\Csharp\Taki\VistaButton\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Geva\Desktop\Shani\Csharp\Taki\VistaButton\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Geva\Desktop\Shani\Csharp\Taki\VistaButton\obj\Debug\VistaButton.exe
+C:\Users\Geva\Desktop\Shani\Csharp\Taki\VistaButton\obj\Debug\VistaButton.pdb
+C:\Users\Geva\Desktop\Shani\Csharp\Taki\VistaButton\obj\Debug\VistaButton.Properties.Resources.resources

@@ -1,0 +1,11 @@
+c:\users\hgp\documents\visual studio 2010\Projects\Taki\Taki.Client.Tests\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\hgp\documents\visual studio 2010\Projects\Taki\Taki.Client.Tests\obj\x86\Debug\Taki.Client.Tests.Properties.Resources.resources
+c:\users\hgp\documents\visual studio 2010\Projects\Taki\Taki.Client.Tests\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\hgp\documents\visual studio 2010\Projects\Taki\Taki.Client.Tests\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\hgp\documents\visual studio 2010\Projects\Taki\Taki.Client.Tests\bin\Debug\Taki.Client.Tests.exe
+c:\users\hgp\documents\visual studio 2010\Projects\Taki\Taki.Client.Tests\bin\Debug\Taki.Client.Tests.pdb
+c:\users\hgp\documents\visual studio 2010\Projects\Taki\Taki.Client.Tests\obj\x86\Debug\Taki.Client.Tests.exe
+c:\users\hgp\documents\visual studio 2010\Projects\Taki\Taki.Client.Tests\obj\x86\Debug\Taki.Client.Tests.pdb
+c:\users\hgp\documents\visual studio 2010\Projects\Taki\Taki.Client.Tests\obj\x86\Debug\Taki.Client.Tests.MainWin.resources
+c:\users\hgp\documents\visual studio 2010\Projects\Taki\Taki.Client.Tests\obj\x86\Debug\Taki.Client.Tests.CardUserControl.resources
+c:\users\hgp\documents\visual studio 2010\Projects\Taki\Taki.Client.Tests\obj\x86\Debug\Taki.Client.Tests.TakiPlayerHandUserControl.resources

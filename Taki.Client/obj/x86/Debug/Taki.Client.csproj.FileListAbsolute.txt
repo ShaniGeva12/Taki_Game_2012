@@ -1,0 +1,59 @@
+c:\users\hgp\documents\visual studio 2010\Projects\Taki\Taki.Client\bin\Debug\Taki.Client.exe
+c:\users\hgp\documents\visual studio 2010\Projects\Taki\Taki.Client\bin\Debug\Taki.Client.pdb
+c:\users\hgp\documents\visual studio 2010\Projects\Taki\Taki.Client\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\hgp\documents\visual studio 2010\Projects\Taki\Taki.Client\obj\x86\Debug\Taki.Client.Properties.Resources.resources
+c:\users\hgp\documents\visual studio 2010\Projects\Taki\Taki.Client\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\hgp\documents\visual studio 2010\Projects\Taki\Taki.Client\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\hgp\documents\visual studio 2010\Projects\Taki\Taki.Client\obj\x86\Debug\Taki.Client.exe
+c:\users\hgp\documents\visual studio 2010\Projects\Taki\Taki.Client\obj\x86\Debug\Taki.Client.pdb
+C:\Users\HGP\Documents\visual studio 2010\Projects\Taki\Taki.Client\obj\x86\Debug\Taki.Client.PlayerMainWindow.resources
+C:\Users\HGP\Documents\visual studio 2010\Projects\Taki\Taki.Client\obj\x86\Debug\Taki.Client.CardUserControl.resources
+C:\Users\HGP\Documents\visual studio 2010\Projects\Taki\Taki.Client\obj\x86\Debug\Taki.Client.ColorPickerDialog.resources
+C:\Users\HGP\documents\visual studio 2010\Projects\Taki\Taki.Client\obj\x86\Debug\Taki.Client.UserControls.GetNameDialog.resources
+C:\Users\HGP\documents\visual studio 2010\Projects\Taki\Taki.Client\bin\Debug\Taki.Common.dll
+C:\Users\HGP\documents\visual studio 2010\Projects\Taki\Taki.Client\bin\Debug\Taki.Common.pdb
+C:\Users\HGP\documents\visual studio 2010\Projects\Taki\Taki.Client\obj\x86\Debug\Taki.Client.UserControls.PlayerUserControl.resources
+C:\Users\HGP\documents\visual studio 2010\Projects\Taki\Taki.Client\obj\x86\Debug\Taki.Client.UserControls.DropErrorDialog.resources
+C:\Users\Geva\Desktop\Shani\Csharp\Taki\Taki.Client\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Geva\Desktop\Shani\Csharp\Taki\Taki.Client\obj\x86\Debug\Taki.Client.PlayerMainWindow.resources
+C:\Users\Geva\Desktop\Shani\Csharp\Taki\Taki.Client\obj\x86\Debug\Taki.Client.Properties.Resources.resources
+C:\Users\Geva\Desktop\Shani\Csharp\Taki\Taki.Client\obj\x86\Debug\Taki.Client.CardUserControl.resources
+C:\Users\Geva\Desktop\Shani\Csharp\Taki\Taki.Client\obj\x86\Debug\Taki.Client.ColorPickerDialog.resources
+C:\Users\Geva\Desktop\Shani\Csharp\Taki\Taki.Client\obj\x86\Debug\Taki.Client.UserControls.DropErrorDialog.resources
+C:\Users\Geva\Desktop\Shani\Csharp\Taki\Taki.Client\obj\x86\Debug\Taki.Client.UserControls.GetNameDialog.resources
+C:\Users\Geva\Desktop\Shani\Csharp\Taki\Taki.Client\obj\x86\Debug\Taki.Client.UserControls.PlayerUserControl.resources
+C:\Users\Geva\Desktop\Shani\Csharp\Taki\Taki.Client\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Geva\Desktop\Shani\Csharp\Taki\Taki.Client\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Geva\Desktop\Shani\Csharp\Taki\Taki.Client\obj\x86\Debug\Taki.Client.exe
+C:\Users\Geva\Desktop\Shani\Csharp\Taki\Taki.Client\obj\x86\Debug\Taki.Client.pdb
+C:\Users\Geva\Desktop\Shani\Csharp\Taki\Taki.Client\bin\Debug\Taki.Client.exe.config
+C:\Users\Geva\Desktop\Shani\Csharp\Taki\Taki.Client\bin\Debug\Taki.Client.exe
+C:\Users\Geva\Desktop\Shani\Csharp\Taki\Taki.Client\bin\Debug\Taki.Client.pdb
+C:\Users\Geva\Desktop\Shani\Csharp\Taki\Taki.Client\bin\Debug\Taki.Common.dll
+C:\Users\Geva\Desktop\Shani\Csharp\Taki\Taki.Client\bin\Debug\VistaButton.exe
+C:\Users\Geva\Desktop\Shani\Csharp\Taki\Taki.Client\bin\Debug\Taki.Common.pdb
+C:\Users\Geva\Desktop\Shani\Csharp\Taki\Taki.Client\bin\Debug\VistaButton.pdb
+E:\0-ShaniGeva\Taki\Taki.Client\obj\x86\Debug\Taki.Client.PlayerMainWindow.resources
+E:\0-ShaniGeva\Taki\Taki.Client\obj\x86\Debug\Taki.Client.Properties.Resources.resources
+E:\0-ShaniGeva\Taki\Taki.Client\obj\x86\Debug\Taki.Client.CardUserControl.resources
+E:\0-ShaniGeva\Taki\Taki.Client\obj\x86\Debug\Taki.Client.ColorPickerDialog.resources
+E:\0-ShaniGeva\Taki\Taki.Client\obj\x86\Debug\Taki.Client.UserControls.DropErrorDialog.resources
+E:\0-ShaniGeva\Taki\Taki.Client\obj\x86\Debug\Taki.Client.UserControls.GetNameDialog.resources
+E:\0-ShaniGeva\Taki\Taki.Client\obj\x86\Debug\Taki.Client.UserControls.PlayerUserControl.resources
+E:\0-ShaniGeva\Taki\Taki.Client\obj\x86\Debug\Taki.Client.csproj.GenerateResource.cache
+E:\0-ShaniGeva\Taki\Taki.Client\bin\Debug\Taki.Client.exe.config
+E:\0-ShaniGeva\Taki\Taki.Client\bin\Debug\Taki.Client.exe.manifest
+E:\0-ShaniGeva\Taki\Taki.Client\bin\Debug\Taki.Client.application
+E:\0-ShaniGeva\Taki\Taki.Client\bin\Debug\Taki.Client.exe
+E:\0-ShaniGeva\Taki\Taki.Client\bin\Debug\Taki.Client.pdb
+E:\0-ShaniGeva\Taki\Taki.Client\bin\Debug\Taki.Common.dll
+E:\0-ShaniGeva\Taki\Taki.Client\bin\Debug\VistaButton.exe
+E:\0-ShaniGeva\Taki\Taki.Client\bin\Debug\Taki.Common.pdb
+E:\0-ShaniGeva\Taki\Taki.Client\bin\Debug\VistaButton.pdb
+E:\0-ShaniGeva\Taki\Taki.Client\obj\x86\Debug\Taki.Client.exe.manifest
+E:\0-ShaniGeva\Taki\Taki.Client\obj\x86\Debug\Taki.Client.application
+E:\0-ShaniGeva\Taki\Taki.Client\obj\x86\Debug\Taki.Client.exe
+E:\0-ShaniGeva\Taki\Taki.Client\obj\x86\Debug\Taki.Client.pdb
+E:\0-ShaniGeva\Taki\Taki.Client\obj\x86\Debug\Taki.Client.csprojAssemblyReference.cache
+E:\0-ShaniGeva\Taki\Taki.Client\obj\x86\Debug\Taki.Client.csproj.CoreCompileInputs.cache
+E:\0-ShaniGeva\Taki\Taki.Client\obj\x86\Debug\Taki.Client.csproj.CopyComplete

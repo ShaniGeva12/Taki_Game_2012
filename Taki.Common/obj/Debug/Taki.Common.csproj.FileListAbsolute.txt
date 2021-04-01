@@ -1,0 +1,16 @@
+c:\users\hgp\documents\visual studio 2010\Projects\Taki\Taki.Common\bin\Debug\Taki.Common.dll
+c:\users\hgp\documents\visual studio 2010\Projects\Taki\Taki.Common\bin\Debug\Taki.Common.pdb
+c:\users\hgp\documents\visual studio 2010\Projects\Taki\Taki.Common\obj\Debug\ResolveAssemblyReference.cache
+c:\users\hgp\documents\visual studio 2010\Projects\Taki\Taki.Common\obj\Debug\Taki.Common.dll
+c:\users\hgp\documents\visual studio 2010\Projects\Taki\Taki.Common\obj\Debug\Taki.Common.pdb
+C:\Users\Geva\Desktop\Shani\Csharp\Taki\Taki.Common\bin\Debug\Taki.Common.dll
+C:\Users\Geva\Desktop\Shani\Csharp\Taki\Taki.Common\bin\Debug\Taki.Common.pdb
+C:\Users\Geva\Desktop\Shani\Csharp\Taki\Taki.Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Geva\Desktop\Shani\Csharp\Taki\Taki.Common\obj\Debug\Taki.Common.dll
+C:\Users\Geva\Desktop\Shani\Csharp\Taki\Taki.Common\obj\Debug\Taki.Common.pdb
+E:\0-ShaniGeva\Taki\Taki.Common\bin\Debug\Taki.Common.dll
+E:\0-ShaniGeva\Taki\Taki.Common\bin\Debug\Taki.Common.pdb
+E:\0-ShaniGeva\Taki\Taki.Common\obj\Debug\Taki.Common.csprojAssemblyReference.cache
+E:\0-ShaniGeva\Taki\Taki.Common\obj\Debug\Taki.Common.csproj.CoreCompileInputs.cache
+E:\0-ShaniGeva\Taki\Taki.Common\obj\Debug\Taki.Common.dll
+E:\0-ShaniGeva\Taki\Taki.Common\obj\Debug\Taki.Common.pdb

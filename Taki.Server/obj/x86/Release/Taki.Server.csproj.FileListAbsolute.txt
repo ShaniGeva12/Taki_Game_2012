@@ -1,0 +1,26 @@
+C:\Users\HGP\documents\visual studio 2010\Projects\Taki\Taki.Server\bin\Release\Taki.Server.exe
+C:\Users\HGP\documents\visual studio 2010\Projects\Taki\Taki.Server\bin\Release\Taki.Server.pdb
+C:\Users\HGP\documents\visual studio 2010\Projects\Taki\Taki.Server\bin\Release\Taki.Common.dll
+C:\Users\HGP\documents\visual studio 2010\Projects\Taki\Taki.Server\bin\Release\Taki.Common.pdb
+C:\Users\HGP\documents\visual studio 2010\Projects\Taki\Taki.Server\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\HGP\documents\visual studio 2010\Projects\Taki\Taki.Server\obj\x86\Release\Taki.Server.ServerUI.resources
+C:\Users\HGP\documents\visual studio 2010\Projects\Taki\Taki.Server\obj\x86\Release\Taki.Server.Properties.Resources.resources
+C:\Users\HGP\documents\visual studio 2010\Projects\Taki\Taki.Server\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\HGP\documents\visual studio 2010\Projects\Taki\Taki.Server\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\HGP\documents\visual studio 2010\Projects\Taki\Taki.Server\obj\x86\Release\Taki.Server.exe
+C:\Users\HGP\documents\visual studio 2010\Projects\Taki\Taki.Server\obj\x86\Release\Taki.Server.pdb
+C:\Users\HGP\documents\visual studio 2010\Projects\Taki\Taki.Server\bin\Release\Taki.Server.exe.config
+C:\Users\Geva\Desktop\Shani\Csharp\Taki\Taki.Server\bin\Release\Taki.Server.exe.config
+C:\Users\Geva\Desktop\Shani\Csharp\Taki\Taki.Server\obj\x86\Release\Taki.Server.exe
+C:\Users\Geva\Desktop\Shani\Csharp\Taki\Taki.Server\obj\x86\Release\Taki.Server.pdb
+E:\0-ShaniGeva\Taki\Taki.Server\bin\Release\Taki.Server.exe.config
+E:\0-ShaniGeva\Taki\Taki.Server\obj\x86\Release\Taki.Server.exe
+E:\0-ShaniGeva\Taki\Taki.Server\obj\x86\Release\Taki.Server.pdb
+E:\0-ShaniGeva\Taki\Taki.Server\bin\Release\Taki.Server.exe
+E:\0-ShaniGeva\Taki\Taki.Server\bin\Release\Taki.Server.pdb
+E:\0-ShaniGeva\Taki\Taki.Server\bin\Release\Taki.Common.dll
+E:\0-ShaniGeva\Taki\Taki.Server\bin\Release\Taki.Common.pdb
+E:\0-ShaniGeva\Taki\Taki.Server\obj\x86\Release\Taki.Server.csprojResolveAssemblyReference.cache
+E:\0-ShaniGeva\Taki\Taki.Server\obj\x86\Release\Taki.Server.ServerUI.resources
+E:\0-ShaniGeva\Taki\Taki.Server\obj\x86\Release\Taki.Server.Properties.Resources.resources
+E:\0-ShaniGeva\Taki\Taki.Server\obj\x86\Release\Taki.Server.csproj.GenerateResource.Cache

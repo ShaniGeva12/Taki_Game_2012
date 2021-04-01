@@ -1,0 +1,283 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{B81F9DC3-A699-459F-91BE-A2BC1F540092}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Taki.Client.Tests</RootNamespace>
+    <AssemblyName>Taki.Client.Tests</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DataTypes\Cards\Classes\NumberTakiCard.cs" />
+    <Compile Include="DataTypes\Cards\Classes\SpecialUniversalTakiCard.cs" />
+    <Compile Include="DataTypes\Cards\Classes\SpecialTakiCard.cs" />
+    <Compile Include="DataTypes\TakiGame.cs" />
+    <Compile Include="DataTypes\UserControls\CardUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DataTypes\UserControls\CardUserControl.Designer.cs">
+      <DependentUpon>CardUserControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataTypes\Enums\CardColors.cs" />
+    <Compile Include="DataTypes\Enums\CardNumbers.cs" />
+    <Compile Include="DataTypes\Enums\SpecialCards.cs" />
+    <Compile Include="DataTypes\Enums\SpecialUniversalCards.cs" />
+    <Compile Include="DataTypes\Cards\Interfaces\ITakiCard.cs" />
+    <Compile Include="DataTypes\TakiPlayer.cs" />
+    <Compile Include="DataTypes\UserControls\TakiPlayerHandUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DataTypes\UserControls\TakiPlayerHandUserControl.Designer.cs">
+      <DependentUpon>TakiPlayerHandUserControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataTypes\TakiStore.cs" />
+    <Compile Include="MainWin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainWin.Designer.cs">
+      <DependentUpon>MainWin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="DataTypes\UserControls\CardUserControl.resx">
+      <DependentUpon>CardUserControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainWin.resx">
+      <DependentUpon>MainWin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="DataTypes\UserControls\TakiPlayerHandUserControl.resx">
+      <DependentUpon>TakiPlayerHandUserControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BlueEight.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BlueFive.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BlueFour.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BlueNine.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BlueOne.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BluePlus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BluePlus2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BlueSeven.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BlueSix.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BlueStop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BlueTaki.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BlueThree.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BlueTurnSwitch.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ColorPicker.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GreenEight.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GreenFive.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GreenFour.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GreenNine.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GreenOne.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GreenPlus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GreenPlus2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GreenSeven.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GreenSix.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GreenStop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GreenTaki.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GreenThree.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GreenTurnSwitch.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MasterTaki.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RedEight.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RedFive.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RedFour.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RedNine.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RedOne.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RedPlus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RedPlus2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RedSeven.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RedSix.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RedStop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RedTaki.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RedThree.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RedTurnSwitch.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Shifter.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\YellowEight.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\YellowFive.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\YellowFour.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\YellowNine.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\YellowOne.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\YellowPlus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\YellowPlus2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\YellowSeven.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\YellowSix.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\YellowStop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\YellowTaki.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\YellowThree.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\YellowTurnSwitch.png" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

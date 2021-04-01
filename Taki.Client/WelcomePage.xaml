@@ -1,0 +1,25 @@
+﻿<Page x:Class="Taki.Client.WelcomePage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      d:DesignHeight="300" d:DesignWidth="300"
+	Title="WelcomePage">
+	<Page.Resources>
+        <Storyboard x:Key="TakiTextBlockStory" RepeatBehavior="Forever"/>
+	</Page.Resources>
+	<Page.Triggers>
+		<EventTrigger RoutedEvent="FrameworkElement.Loaded">
+			<BeginStoryboard Storyboard="{StaticResource TakiTextBlockStory}"/>
+		</EventTrigger>
+	</Page.Triggers>
+
+    <Grid>
+    	<Grid.RowDefinitions>
+    		<RowDefinition Height="0.173*"/>
+    		<RowDefinition Height="0.827*"/>
+    	</Grid.RowDefinitions>
+    	<Path Data="M-98,220" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="1" Margin="-98,0,0,79" Grid.Row="1" Stretch="Fill" Stroke="Black" VerticalAlignment="Bottom" Width="1"/>
+    </Grid>
+</Page>

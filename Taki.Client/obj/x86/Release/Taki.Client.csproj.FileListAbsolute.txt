@@ -1,0 +1,39 @@
+C:\Users\HGP\documents\visual studio 2010\Projects\Taki\Taki.Client\bin\Release\Taki.Client.exe
+C:\Users\HGP\documents\visual studio 2010\Projects\Taki\Taki.Client\bin\Release\Taki.Client.pdb
+C:\Users\HGP\documents\visual studio 2010\Projects\Taki\Taki.Client\bin\Release\Taki.Common.dll
+C:\Users\HGP\documents\visual studio 2010\Projects\Taki\Taki.Client\bin\Release\Taki.Common.pdb
+C:\Users\HGP\documents\visual studio 2010\Projects\Taki\Taki.Client\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\HGP\documents\visual studio 2010\Projects\Taki\Taki.Client\obj\x86\Release\Taki.Client.PlayerMainWindow.resources
+C:\Users\HGP\documents\visual studio 2010\Projects\Taki\Taki.Client\obj\x86\Release\Taki.Client.Properties.Resources.resources
+C:\Users\HGP\documents\visual studio 2010\Projects\Taki\Taki.Client\obj\x86\Release\Taki.Client.CardUserControl.resources
+C:\Users\HGP\documents\visual studio 2010\Projects\Taki\Taki.Client\obj\x86\Release\Taki.Client.ColorPickerDialog.resources
+C:\Users\HGP\documents\visual studio 2010\Projects\Taki\Taki.Client\obj\x86\Release\Taki.Client.UserControls.GetNameDialog.resources
+C:\Users\HGP\documents\visual studio 2010\Projects\Taki\Taki.Client\obj\x86\Release\Taki.Client.UserControls.PlayerUserControl.resources
+C:\Users\HGP\documents\visual studio 2010\Projects\Taki\Taki.Client\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\HGP\documents\visual studio 2010\Projects\Taki\Taki.Client\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\HGP\documents\visual studio 2010\Projects\Taki\Taki.Client\obj\x86\Release\Taki.Client.exe
+C:\Users\HGP\documents\visual studio 2010\Projects\Taki\Taki.Client\obj\x86\Release\Taki.Client.pdb
+C:\Users\HGP\documents\visual studio 2010\Projects\Taki\Taki.Client\obj\x86\Release\Taki.Client.UserControls.DropErrorDialog.resources
+C:\Users\HGP\documents\visual studio 2010\Projects\Taki\Taki.Client\bin\Release\Taki.Client.exe.config
+C:\Users\HGP\documents\visual studio 2010\Projects\Taki\Taki.Client\bin\Release\Win7Button.dll
+C:\Users\Geva\Desktop\Shani\Csharp\Taki\Taki.Client\bin\Release\Taki.Client.exe.config
+C:\Users\Geva\Desktop\Shani\Csharp\Taki\Taki.Client\obj\x86\Release\Taki.Client.exe
+C:\Users\Geva\Desktop\Shani\Csharp\Taki\Taki.Client\obj\x86\Release\Taki.Client.pdb
+E:\0-ShaniGeva\Taki\Taki.Client\bin\Release\Taki.Client.exe.config
+E:\0-ShaniGeva\Taki\Taki.Client\obj\x86\Release\Taki.Client.exe
+E:\0-ShaniGeva\Taki\Taki.Client\obj\x86\Release\Taki.Client.pdb
+E:\0-ShaniGeva\Taki\Taki.Client\bin\Release\Taki.Client.exe
+E:\0-ShaniGeva\Taki\Taki.Client\bin\Release\Taki.Client.pdb
+E:\0-ShaniGeva\Taki\Taki.Client\bin\Release\Taki.Common.dll
+E:\0-ShaniGeva\Taki\Taki.Client\bin\Release\VistaButton.exe
+E:\0-ShaniGeva\Taki\Taki.Client\bin\Release\Taki.Common.pdb
+E:\0-ShaniGeva\Taki\Taki.Client\bin\Release\VistaButton.pdb
+E:\0-ShaniGeva\Taki\Taki.Client\obj\x86\Release\Taki.Client.csprojResolveAssemblyReference.cache
+E:\0-ShaniGeva\Taki\Taki.Client\obj\x86\Release\Taki.Client.PlayerMainWindow.resources
+E:\0-ShaniGeva\Taki\Taki.Client\obj\x86\Release\Taki.Client.Properties.Resources.resources
+E:\0-ShaniGeva\Taki\Taki.Client\obj\x86\Release\Taki.Client.CardUserControl.resources
+E:\0-ShaniGeva\Taki\Taki.Client\obj\x86\Release\Taki.Client.ColorPickerDialog.resources
+E:\0-ShaniGeva\Taki\Taki.Client\obj\x86\Release\Taki.Client.UserControls.DropErrorDialog.resources
+E:\0-ShaniGeva\Taki\Taki.Client\obj\x86\Release\Taki.Client.UserControls.GetNameDialog.resources
+E:\0-ShaniGeva\Taki\Taki.Client\obj\x86\Release\Taki.Client.UserControls.PlayerUserControl.resources
+E:\0-ShaniGeva\Taki\Taki.Client\obj\x86\Release\Taki.Client.csproj.GenerateResource.Cache

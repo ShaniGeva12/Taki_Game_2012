@@ -1,0 +1,220 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>VistaButton</name>
+    </assembly>
+    <members>
+        <member name="T:VistaButtonTest.VistaButton">
+            <summary>
+            A replacement for the Windows Button Control.
+            </summary>
+        </member>
+        <member name="M:VistaButtonTest.VistaButton.#ctor">
+            <summary>
+            Initialize the component with it's
+            default settings.
+            </summary>
+        </member>
+        <member name="M:VistaButtonTest.VistaButton.Dispose(System.Boolean)">
+            <summary>
+            Release resources used by the control.
+            </summary>
+        </member>
+        <member name="M:VistaButtonTest.VistaButton.DrawOuterStroke(System.Drawing.Graphics)">
+            <summary>
+            Draws the outer border for the control
+            using the ButtonColor property.
+            </summary>
+            <param name="g">The graphics object used in the paint event.</param>
+        </member>
+        <member name="M:VistaButtonTest.VistaButton.DrawInnerStroke(System.Drawing.Graphics)">
+            <summary>
+            Draws the inner border for the control
+            using the HighlightColor property.
+            </summary>
+            <param name="g">The graphics object used in the paint event.</param>
+        </member>
+        <member name="M:VistaButtonTest.VistaButton.DrawBackground(System.Drawing.Graphics)">
+            <summary>
+            Draws the background for the control
+            using the background image and the 
+            BaseColor.
+            </summary>
+            <param name="g">The graphics object used in the paint event.</param>
+        </member>
+        <member name="M:VistaButtonTest.VistaButton.DrawHighlight(System.Drawing.Graphics)">
+            <summary>
+            Draws the Highlight over the top of the
+            control using the HightlightColor.
+            </summary>
+            <param name="g">The graphics object used in the paint event.</param>
+        </member>
+        <member name="M:VistaButtonTest.VistaButton.DrawGlow(System.Drawing.Graphics)">
+            <summary>
+            Draws the glow for the button when the
+            mouse is inside the client area using
+            the GlowColor property.
+            </summary>
+            <param name="g">The graphics object used in the paint event.</param>
+        </member>
+        <member name="M:VistaButtonTest.VistaButton.DrawText(System.Drawing.Graphics)">
+            <summary>
+            Draws the text for the button.
+            </summary>
+            <param name="g">The graphics object used in the paint event.</param>
+        </member>
+        <member name="M:VistaButtonTest.VistaButton.DrawImage(System.Drawing.Graphics)">
+            <summary>
+            Draws the image for the button
+            </summary>
+            <param name="g">The graphics object used in the paint event.</param>
+        </member>
+        <member name="P:VistaButtonTest.VistaButton.ButtonText">
+            <summary>
+            The text that is displayed on the button.
+            </summary>
+        </member>
+        <member name="P:VistaButtonTest.VistaButton.ForeColor">
+            <summary>
+            The color with which the text is drawn.
+            </summary>
+        </member>
+        <member name="P:VistaButtonTest.VistaButton.TextAlign">
+            <summary>
+            The alignment of the button text
+            that is displayed on the control.
+            </summary>
+        </member>
+        <member name="P:VistaButtonTest.VistaButton.Image">
+            <summary>
+            The image displayed on the button that 
+            is used to help the user identify
+            it's function if the text is ambiguous.
+            </summary>
+        </member>
+        <member name="P:VistaButtonTest.VistaButton.ImageAlign">
+            <summary>
+            The alignment of the image 
+            in relation to the button.
+            </summary>
+        </member>
+        <member name="P:VistaButtonTest.VistaButton.ImageSize">
+            <summary>
+            The size of the image to be displayed on the
+            button. This property defaults to 24x24.
+            </summary>
+        </member>
+        <member name="P:VistaButtonTest.VistaButton.ButtonStyle">
+            <summary>
+            Sets whether the button background is drawn 
+            while the mouse is outside of the client area.
+            </summary>
+        </member>
+        <member name="P:VistaButtonTest.VistaButton.CornerRadius">
+            <summary>
+            The radius for the button corners. The 
+            greater this value is, the more 'smooth' 
+            the corners are. This property should
+             not be greater than half of the 
+             controls height.
+            </summary>
+        </member>
+        <member name="P:VistaButtonTest.VistaButton.HighlightColor">
+            <summary>
+            The colour of the highlight on the top of the button.
+            </summary>
+        </member>
+        <member name="P:VistaButtonTest.VistaButton.ButtonColor">
+            <summary>
+            The bottom color of the button that 
+            will be drawn over the base color.
+            </summary>
+        </member>
+        <member name="P:VistaButtonTest.VistaButton.GlowColor">
+            <summary>
+            The colour that the button glows when
+            the mouse is inside the client area.
+            </summary>
+        </member>
+        <member name="P:VistaButtonTest.VistaButton.BackImage">
+            <summary>
+            The background image for the button, 
+            this image is drawn over the base 
+            color of the button.
+            </summary>
+        </member>
+        <member name="P:VistaButtonTest.VistaButton.BaseColor">
+            <summary>
+            The backing color that the rest of 
+            the button is drawn. For a glassier 
+            effect set this property to Transparent.
+            </summary>
+        </member>
+        <member name="T:VistaButtonTest.VistaButton.State">
+            <summary>
+            A private enumeration that determines 
+            the mouse state in relation to the 
+            current instance of the control.
+            </summary>
+        </member>
+        <member name="T:VistaButtonTest.VistaButton.Style">
+            <summary>
+            A public enumeration that determines whether
+            the button background is painted when the 
+            mouse is not inside the ClientArea.
+            </summary>
+        </member>
+        <member name="F:VistaButtonTest.VistaButton.Style.Default">
+            <summary>
+            Draw the button as normal
+            </summary>
+        </member>
+        <member name="F:VistaButtonTest.VistaButton.Style.Flat">
+            <summary>
+            Only draw the background on mouse over.
+            </summary>
+        </member>
+        <member name="T:VistaButtonTest.Form1">
+            <summary>
+            Summary description for Form1.
+            </summary>
+        </member>
+        <member name="F:VistaButtonTest.Form1.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:VistaButtonTest.Form1.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+        </member>
+        <member name="M:VistaButtonTest.Form1.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:VistaButtonTest.Form1.Main">
+            <summary>
+            The main entry point for the application.
+            </summary>
+        </member>
+        <member name="T:VistaButton.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:VistaButton.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:VistaButton.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+    </members>
+</doc>

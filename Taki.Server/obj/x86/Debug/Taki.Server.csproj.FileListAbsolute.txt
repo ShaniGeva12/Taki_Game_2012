@@ -1,0 +1,36 @@
+C:\Users\HGP\documents\visual studio 2010\Projects\Taki\Taki.Server\bin\Debug\Taki.Server.exe
+C:\Users\HGP\documents\visual studio 2010\Projects\Taki\Taki.Server\bin\Debug\Taki.Server.pdb
+C:\Users\HGP\documents\visual studio 2010\Projects\Taki\Taki.Server\bin\Debug\Taki.Common.dll
+C:\Users\HGP\documents\visual studio 2010\Projects\Taki\Taki.Server\bin\Debug\Taki.Common.pdb
+C:\Users\HGP\documents\visual studio 2010\Projects\Taki\Taki.Server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\HGP\documents\visual studio 2010\Projects\Taki\Taki.Server\obj\x86\Debug\Taki.Server.ServerUI.resources
+C:\Users\HGP\documents\visual studio 2010\Projects\Taki\Taki.Server\obj\x86\Debug\Taki.Server.Properties.Resources.resources
+C:\Users\HGP\documents\visual studio 2010\Projects\Taki\Taki.Server\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\HGP\documents\visual studio 2010\Projects\Taki\Taki.Server\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\HGP\documents\visual studio 2010\Projects\Taki\Taki.Server\obj\x86\Debug\Taki.Server.exe
+C:\Users\HGP\documents\visual studio 2010\Projects\Taki\Taki.Server\obj\x86\Debug\Taki.Server.pdb
+C:\Users\Geva\Desktop\Shani\Csharp\Taki\Taki.Server\bin\Debug\Taki.Server.exe.config
+C:\Users\Geva\Desktop\Shani\Csharp\Taki\Taki.Server\bin\Debug\Taki.Server.exe
+C:\Users\Geva\Desktop\Shani\Csharp\Taki\Taki.Server\bin\Debug\Taki.Server.pdb
+C:\Users\Geva\Desktop\Shani\Csharp\Taki\Taki.Server\bin\Debug\Taki.Common.dll
+C:\Users\Geva\Desktop\Shani\Csharp\Taki\Taki.Server\bin\Debug\Taki.Common.pdb
+C:\Users\Geva\Desktop\Shani\Csharp\Taki\Taki.Server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Geva\Desktop\Shani\Csharp\Taki\Taki.Server\obj\x86\Debug\Taki.Server.ServerUI.resources
+C:\Users\Geva\Desktop\Shani\Csharp\Taki\Taki.Server\obj\x86\Debug\Taki.Server.Properties.Resources.resources
+C:\Users\Geva\Desktop\Shani\Csharp\Taki\Taki.Server\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Geva\Desktop\Shani\Csharp\Taki\Taki.Server\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Geva\Desktop\Shani\Csharp\Taki\Taki.Server\obj\x86\Debug\Taki.Server.exe
+C:\Users\Geva\Desktop\Shani\Csharp\Taki\Taki.Server\obj\x86\Debug\Taki.Server.pdb
+E:\0-ShaniGeva\Taki\Taki.Server\bin\Debug\Taki.Server.exe.config
+E:\0-ShaniGeva\Taki\Taki.Server\bin\Debug\Taki.Server.exe
+E:\0-ShaniGeva\Taki\Taki.Server\bin\Debug\Taki.Server.pdb
+E:\0-ShaniGeva\Taki\Taki.Server\bin\Debug\Taki.Common.dll
+E:\0-ShaniGeva\Taki\Taki.Server\bin\Debug\Taki.Common.pdb
+E:\0-ShaniGeva\Taki\Taki.Server\obj\x86\Debug\Taki.Server.csprojAssemblyReference.cache
+E:\0-ShaniGeva\Taki\Taki.Server\obj\x86\Debug\Taki.Server.ServerUI.resources
+E:\0-ShaniGeva\Taki\Taki.Server\obj\x86\Debug\Taki.Server.Properties.Resources.resources
+E:\0-ShaniGeva\Taki\Taki.Server\obj\x86\Debug\Taki.Server.csproj.GenerateResource.cache
+E:\0-ShaniGeva\Taki\Taki.Server\obj\x86\Debug\Taki.Server.csproj.CoreCompileInputs.cache
+E:\0-ShaniGeva\Taki\Taki.Server\obj\x86\Debug\Taki.Server.csproj.CopyComplete
+E:\0-ShaniGeva\Taki\Taki.Server\obj\x86\Debug\Taki.Server.exe
+E:\0-ShaniGeva\Taki\Taki.Server\obj\x86\Debug\Taki.Server.pdb
